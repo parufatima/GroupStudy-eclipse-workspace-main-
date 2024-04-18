@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-18T20:51:54 CET" name="Default suite" finished-at="2023-02-18T20:52:15 CET" duration-ms="21703">
+    <groups>
+    </groups>
+    <test started-at="2023-02-18T20:51:54 CET" name="Default test" finished-at="2023-02-18T20:52:15 CET" duration-ms="21703">
+      <class name="GroupStudy.CalenderAndScroll">
+        <test-method signature="SouthEastCalender()[pri:0, instance:GroupStudy.CalenderAndScroll@1ffaf86]" started-at="2023-02-18T20:51:54 CET" name="SouthEastCalender" finished-at="2023-02-18T20:52:15 CET" duration-ms="21521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SouthEastCalender -->
+      </class> <!-- GroupStudy.CalenderAndScroll -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
